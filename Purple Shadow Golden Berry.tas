@@ -1,8 +1,10 @@
 console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
    1
 
+#Start
  190
 
+#lvl_a-00
    4,L
    1,L,J
   21,L,D
@@ -20,6 +22,8 @@ console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
    4,R
   10,R,D,X
   40
+
+#lvl_a-01
    4,R,D,X
    1,R,J
   10,R,D,X
@@ -73,6 +77,8 @@ console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
    7,R
    1,R,J
   40
+
+#lvl_a-02
    1,R,J
   14,R,D,X
   26,R,J
@@ -121,10 +127,11 @@ console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
    6,R,Z
    1,R,J
    7,R
-   1,R,J
-   1,R,J
+   2,R,J
    7,R,D,X
   40
+
+#lvl_a-03
    7,R,D,X
    1
   19,R,U,X
@@ -185,6 +192,8 @@ console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
   12,J,G
    5,K,G
   40
+
+#lvl_a-04B
   12
   15,D,X
   10,L,J
@@ -216,64 +225,24 @@ console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
   18,L,U,X
   77
    1,J
-  15,D,X
-  33
+   8,D,X
+  40
+
+#lvl_a-03
   25,D,X
    1
+Repeat 24
    2,L,D
    2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
+endRepeat
    2,L,D
    2
    6,L,Z
    1,L,J
    7,L
   40
+
+#lvl_a-05
    1,L,J
   11,L,X
   13,L,J
@@ -327,6 +296,8 @@ console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
   15,L,D
    8,L,Z
   40
+
+#lvl_a-07
    1,L,J
    8,L,D
   19,D
@@ -380,6 +351,8 @@ console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
    9,L,Z
    1,L,J
   40
+
+#lvl_a-08
   11,L,J
    4,G
   21,L,K,G
@@ -413,8 +386,7 @@ console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
    2,L,J
    3,L
   14,L,D,X
-  28,L,J
-   4,L,J
+  32,L,J
    5,R
   17,R,D,X
   27,R
@@ -428,7 +400,11 @@ console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
   15,L,G
    6,R,J
    9,U,X
-  53,R,J
+   8,R,J
+  40,J
+
+#lvl_a-09
+   5,R,J
    7,L,K
   11,L,X
   15,L,J
@@ -481,6 +457,8 @@ console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
    1,R,J
    8,R,D,X
   40
+
+#lvl_a-13
    7,R,D,X
    1,R,J
   14,R,D,X
@@ -591,71 +569,18 @@ console load FangameSummerFeast2023/PurpleShadow/PurpleShadow
   25,R,K
   27,L,X
   17,U,C
-  20,U,X
-  55
+  21,U,X
+  40
+
+#lvl_a-heart
+  14
   19,R,U,X
    1,R,J,G
    7,R
   14,R,U,X
   13,L
+Repeat 30
    2,R
    2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
+endRepeat
    2,R
